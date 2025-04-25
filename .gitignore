@@ -1,1 +1,7 @@
 html/vjezba_gitignore.txt
+
+# ignoriraj cijeli folder
+toignore/*
+
+# ignoriraj sve datoteke s eksenzijim .html
+*.html
