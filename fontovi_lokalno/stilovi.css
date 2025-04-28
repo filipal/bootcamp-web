@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "SourGummy";
+    src: url("fontovi/SourGummy-Regular.ttf") format("truetype");
+    font-weight: normal;
+    font-size: normal;
+}
+
+.gummy {
+    font-family: "SourGummy";
+}
