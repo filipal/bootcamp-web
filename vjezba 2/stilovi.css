@@ -21,4 +21,26 @@ li {
 
 li[type="bluecolor"] {
     color: blue;
-  }
+}
+
+.pixels {
+    font-family: "Coral Pixels", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.maguntia {
+    font-family: "UnifrakturMaguntia", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.gummy {
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 200;
+    font-size: 20px;
+}
