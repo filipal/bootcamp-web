@@ -1,0 +1,20 @@
+h1{
+    color: blue;
+}
+
+.red-alert{
+    color: red;
+}
+
+#poseban{
+    color: green;
+}
+
+input{
+    background-color: blue;
+}
+
+input[type="text"]
+{
+    background-color: yellow;
+}
