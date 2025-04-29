@@ -1,0 +1,18 @@
+#outer-box {
+    border: 10px solid;
+    border-color: brown;
+    background-color: blue;
+
+}
+
+p {
+    color: yellow;
+    margin: 10px;
+}
+
+p.white-text {
+    background-color: chocolate;
+    margin: 10px;
+    padding: 10px;
+    color: white;
+}
